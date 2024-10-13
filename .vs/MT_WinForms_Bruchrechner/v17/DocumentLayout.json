@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MT_WinForms_Bruchrechner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126EBF28-2DA2-4399-B915-F78F2B16DC30}|MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner.csproj|C:\\Users\\Admin\\source\\repos\\MT_WinForms_Bruchrechner\\mt_winforms_bruchrechner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126EBF28-2DA2-4399-B915-F78F2B16DC30}|MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner.csproj|solutionrelative:mt_winforms_bruchrechner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EBF28-2DA2-4399-B915-F78F2B16DC30}|MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner.csproj|c:\\users\\admin\\source\\repos\\mt_winforms_bruchrechner\\mt_winforms_bruchrechner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{126EBF28-2DA2-4399-B915-F78F2B16DC30}|MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner.csproj|solutionrelative:mt_winforms_bruchrechner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126EBF28-2DA2-4399-B915-F78F2B16DC30}|MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner.csproj|C:\\Users\\Admin\\source\\repos\\MT_WinForms_Bruchrechner\\mt_winforms_bruchrechner\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126EBF28-2DA2-4399-B915-F78F2B16DC30}|MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner.csproj|solutionrelative:mt_winforms_bruchrechner\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner\\Form1.cs",
+              "RelativeDocumentMoniker": "MT_WinForms_Bruchrechner\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner\\Form1.cs",
+              "RelativeToolTip": "MT_WinForms_Bruchrechner\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:58:22.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MT_WinForms_Bruchrechner\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner\\Form1.Designer.cs",
+              "RelativeToolTip": "MT_WinForms_Bruchrechner\\Form1.Designer.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowFkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:18:44.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner\\Form1.cs",
+              "RelativeDocumentMoniker": "MT_WinForms_Bruchrechner\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MT_WinForms_Bruchrechner\\MT_WinForms_Bruchrechner\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "MT_WinForms_Bruchrechner\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:40:39.216Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

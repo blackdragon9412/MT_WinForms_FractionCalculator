@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MT_WinForms_Bruchrechner/1.0.0": {
+        "runtime": {
+          "MT_WinForms_Bruchrechner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MT_WinForms_Bruchrechner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

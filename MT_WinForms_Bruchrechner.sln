@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MT_WinForms_Bruchrechner", "MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner.csproj", "{126EBF28-2DA2-4399-B915-F78F2B16DC30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{126EBF28-2DA2-4399-B915-F78F2B16DC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126EBF28-2DA2-4399-B915-F78F2B16DC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126EBF28-2DA2-4399-B915-F78F2B16DC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126EBF28-2DA2-4399-B915-F78F2B16DC30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A8C81C5-0BC3-4A5A-8C41-0EE543699CAF}
+	EndGlobalSection
+EndGlobal

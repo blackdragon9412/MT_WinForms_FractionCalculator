@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\bin\Debug\net8.0-windows\MT_WinForms_Bruchrechner.exe
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\bin\Debug\net8.0-windows\MT_WinForms_Bruchrechner.deps.json
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\bin\Debug\net8.0-windows\MT_WinForms_Bruchrechner.runtimeconfig.json
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\bin\Debug\net8.0-windows\MT_WinForms_Bruchrechner.dll
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\bin\Debug\net8.0-windows\MT_WinForms_Bruchrechner.pdb
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\obj\Debug\net8.0-windows\MT_WinForms_Bruchrechner.Form1.resources
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\obj\Debug\net8.0-windows\MT_WinForms_Bruchrechner.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\obj\Debug\net8.0-windows\MT_WinForms_Bruchrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\obj\Debug\net8.0-windows\MT_WinForms_Bruchrechner.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\obj\Debug\net8.0-windows\MT_WinForms_Bruchrechner.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\obj\Debug\net8.0-windows\MT_WinForms_Bruchrechner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\obj\Debug\net8.0-windows\MT_WinForms_Bruchrechner.dll
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\obj\Debug\net8.0-windows\refint\MT_WinForms_Bruchrechner.dll
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\obj\Debug\net8.0-windows\MT_WinForms_Bruchrechner.pdb
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\obj\Debug\net8.0-windows\MT_WinForms_Bruchrechner.genruntimeconfig.cache
+C:\Users\Admin\source\repos\MT_WinForms_Bruchrechner\MT_WinForms_Bruchrechner\obj\Debug\net8.0-windows\ref\MT_WinForms_Bruchrechner.dll
